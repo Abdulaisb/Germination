@@ -1,0 +1,21 @@
+0:Turn on Pumps and Light, Turn off Fan
+5:
+10:
+15:
+20:
+25: Pump Off
+30:
+35:
+40: Lights Off, Fan On
+45:
+50:
+55:
+
+if heat > tempMax
+- turn off lights for rest of  cycle
+- turn on fan
+
+if humidity > humMax
+- close the pump
+
+Turn on h
